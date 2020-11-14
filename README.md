@@ -1,6 +1,6 @@
 ### Hi, I am Hiccup 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcothragon%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprocoder333%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 
 🔭 I’m currently working on as a remote worker.
@@ -13,9 +13,9 @@
 
 I am very familiar with Github, commit to Github is a part of my life. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cothragon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=procoder333)](https://github.com/anuraghazra/github-readme-stats)
 
-![Code Dragon's github stats](https://github-readme-stats.vercel.app/api?username=cothragon&show_icons=true&theme=vue)
+![procoder's github stats](https://github-readme-stats.vercel.app/api?username=procoder333&show_icons=true&theme=vue)
 
 
 
